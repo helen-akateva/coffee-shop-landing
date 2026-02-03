@@ -1,12 +1,12 @@
 {
-  "name": "Coffe-joy",
+  "name": "coffee-shop-landing",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://den0203.github.io/coffe-joy/",
+  "homepage": "https://helen-akateva.github.io/coffee-shop-landing",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/coffe-joy/",
+    "build": "vite build --base=/coffee-shop-landing/",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
