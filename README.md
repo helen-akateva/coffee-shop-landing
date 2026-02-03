@@ -4,7 +4,7 @@ A modern, responsive landing page for a coffee shop, created as a team project. 
 
 ## 🌐 Live Demo
 
-**[View Live Demo](https://den0203.github.io/coffe-joy/)**
+**[View Live Demo](https://helen-akateva.github.io/coffee-shop-landing/)**
 
 ## 📋 Description
 
